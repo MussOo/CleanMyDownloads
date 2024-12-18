@@ -2,7 +2,7 @@ import os
 import shutil
 
 
-dossier_telechargements = os.path.expanduser("~/Téléchargements")
+dossier_telechargements = os.path.expanduser("~\Downloads")
 
 # Les Categories
 categories = {
